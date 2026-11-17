@@ -1,0 +1,13 @@
+{
+  "name": "CS366 PA03 — Dynamic Programming",
+  "image": "mcr.microsoft.com/devcontainers/java:1-21-bookworm",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-gradle"
+      ]
+    }
+  },
+  "remoteUser": "vscode"
+}
